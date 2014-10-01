@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'CSDN_Samples' target in the 'CSDN_Samples' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
